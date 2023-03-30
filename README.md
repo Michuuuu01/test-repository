@@ -1,2 +1,2 @@
-# test-repository
-this is a second example
+# My ery first repo
+CZEŚĆ
